@@ -8,7 +8,7 @@ class Auth extends CI_Controller
   {
     parent::__construct();
     $this->load->library('form_validation');
-    $this->load->library('aes_');
+    // $this->load->library('aes_');
   }
   public function index()
   {
