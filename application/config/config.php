@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://tanjungselayar.epizy.com/';
+$config['base_url'] = 'http://desatanjungselayar.com/';
 // $config['base_key'] = '1a2b3a4b5a6b7a8b';
 
 /*
